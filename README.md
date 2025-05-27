@@ -59,7 +59,7 @@
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [linkedin.com/in/TUUSUARIO](https://linkedin.com/in/TUUSUARIO)
+- 💼 LinkedIn: [linkedin.com/in/TrinityBerserker](https://linkedin.com/in/gustavo-bermúdez-97a966191)
 - 📧 Email: tuemail@example.com
 
 ---
