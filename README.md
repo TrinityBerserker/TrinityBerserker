@@ -1,32 +1,32 @@
-<h1 align="center">👋 ¡Hola! Soy Trinity Berserker</h1>
+<h1 align="center">👋 Hi! I'm Trinity Berserker</h1>
 
 <p align="center">
-  <a href="#sobre-mí">Sobre Mí</a> •
-  <a href="#habilidades">Habilidades</a> •
-  <a href="#herramientas">Herramientas</a> •
-  <a href="#proyectos">Proyectos</a> •
-  <a href="#estadísticas">Estadísticas</a> •
-  <a href="#contacto">Contacto</a>
+  <a href="#about-me">About Me</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#tools">Tools</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## 🧠 Sobre Mí
+## 🧠 About Me
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con interés en la ciberseguridad, el análisis de amenazas y el desarrollo de herramientas inteligentes para proteger sistemas.
-
----
-
-## 🛠️ Habilidades
-
-- 🔐 Seguridad informática
-- 🧠 Inteligencia artificial
-- 🔧 Automatización de tareas
-- 💬 Redes P2P y aplicaciones distribuidas
+Welcome to my GitHub profile! I am a developer with a strong interest in cybersecurity, threat analysis, and building intelligent tools to protect systems.
 
 ---
 
-## ⚙️ Herramientas y Tecnologías
+## 🛠️ Skills
+
+- 🔐 Cybersecurity
+- 🧠 Artificial Intelligence
+- 🔧 Task Automation
+- 💬 P2P Networks and Distributed Applications
+
+---
+
+## ⚙️ Tools and Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -38,15 +38,15 @@
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
-- 🛡️ **Antivirus Uthopia** – Análisis de firmas y protección en tiempo real.
-- 🔥 **Firewall Interno** – Detección de amenazas en carpetas monitorizadas.
-- 📱 **Red P2P en Android** – Aplicación descentralizada para chat seguro.
+- 🛡️ **Antivirus Uthopia** – Signature analysis and real-time protection.
+- 🔥 **Internal Firewall** – Threat detection in monitored folders.
+- 📱 **P2P Network on Android** – Decentralized app for secure chatting.
 
 ---
 
-## 📈 Estadísticas
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TrinityBerserker&show_icons=true&theme=radical"/>
@@ -57,10 +57,10 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/TrinityBerserker](https://linkedin.com/in/gustavo-bermúdez-97a966191)
-- 📧 Email: tuemail@example.com
+- 💼 LinkedIn: [linkedin.com/in/TrinityBerserker]()
+- 📧 Email: youremail@example.com
 
 ---
 
