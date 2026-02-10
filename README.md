@@ -59,8 +59,7 @@ Welcome to my GitHub profile! I am a developer with a strong interest in cyberse
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/TT]()
-- 📧 Email: youremail@example.com
+- 📧 Email: ttrinity@xwz.com
 
 ---
 
