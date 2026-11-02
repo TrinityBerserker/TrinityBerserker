@@ -166,3 +166,5 @@ Browser extension (Manifest V3) + FastAPI backend enabling GitHub users to recei
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=4000&pause=2000&color=00E5FF40&center=true&vCenter=true&width=500&height=50&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22" alt="quote" />
 </div>
 ```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=4000&pause=2000&color=00E5FF40&center=true&vCenter=true&width=500&height=50&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22" alt="quote" />
+</div>
